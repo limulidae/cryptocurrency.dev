@@ -1,0 +1,15 @@
+http://localhost:8000/
+
+search plugin: 
+bbpress, 
+budypress,
+#Nextend Social Login and Register,
+WordPress Social Share, Social Login and Social Comments Plugin – Super Socializer
+#Social Login & Register for WordPress – 40+ Social Networks / OneAll INC
+
+linkedin login:
+https://www.linkedin.com/developers/apps/87616304/auth
+
+install plugin
+activate plugin
+
