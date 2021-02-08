@@ -2,7 +2,7 @@ http://localhost:8000/
 
 search plugin: 
 bbpress, 
-budypress,
+buddypress,
 #Nextend Social Login and Register,
 WordPress Social Share, Social Login and Social Comments Plugin – Super Socializer
 #Social Login & Register for WordPress – 40+ Social Networks / OneAll INC
